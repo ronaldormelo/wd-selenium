@@ -1,4 +1,4 @@
-php-webdriver-demo
+wd-selenium
 ==================
 
 [![Build Status](https://travis-ci.org/shoaibali/php-webdriver-demo.svg?branch=master)](https://travis-ci.org/shoaibali/php-webdriver-demo)
